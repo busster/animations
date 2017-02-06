@@ -5,7 +5,7 @@
 ## Loading Animation
 * http://codepen.io/ahabcpt/pen/egKQra
 
-## Clock
+## Clock Animation
 * http://codepen.io/ahabcpt/pen/BpVGPY
 
 ## Isometric Containers
